@@ -17,7 +17,7 @@ HTML, CSS - Tailwind/DaisyUI, JavaScript - JSX, React
 
 ## Optimizations:
 
-Will come back to refactor calls into action files
+Will come back to refactor calls into action files.
 
 ## Lessons Learned:
 
