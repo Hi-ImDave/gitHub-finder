@@ -12,7 +12,7 @@ HTML, CSS - Tailwind/DaisyUI, JavaScript - JSX, React
 **Preview:**
 
 <div align="center">
-  <img src="./src/components/layout/assets/gitHubFinder.png" alt="" />  
+  <img src="./src/components/layout/assets/gitHubFinder.png" alt="Github main profile" />  
 </div>
 
 **Website:**
