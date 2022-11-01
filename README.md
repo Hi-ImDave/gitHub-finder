@@ -16,7 +16,7 @@ HTML, CSS - Tailwind/DaisyUI, JavaScript - JSX, React
 </div>
 
 **Website:**
-https://github-finder-sepia-three.vercel.app/
+https://github-finder-sepia-three.vercel.app
 
 ## Optimizations:
 
