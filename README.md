@@ -24,4 +24,4 @@ Will come back to refactor calls into action files.
 
 ## Lessons Learned:
 
-Learned more on how to use the context api and reducers to manage global state
+Learned more on how to use the context api and reducers to manage global state. Learning deploys with vercel
