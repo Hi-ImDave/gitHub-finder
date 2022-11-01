@@ -12,8 +12,11 @@ HTML, CSS - Tailwind/DaisyUI, JavaScript - JSX, React
 **Preview:**
 
 <div align="center">
-  <img src="" alt="" />  
+  <img src="./src/components/layout/assets/gitHubFinder.png" alt="" />  
 </div>
+
+**Website:**
+https://github-finder-dmottdev.netlify.app/
 
 ## Optimizations:
 
